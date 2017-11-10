@@ -1,0 +1,1467 @@
+Ab:Achterberg
+Abr:Brug over de Arne
+Ac:Abcoude
+Ach:Achel
+Adh:Achter de Hoven
+Adl:Amsterdam Doklaan
+Advd:Amsterdam Duivendrecht
+Ah:Arnhem
+Ahakz:Arnhem raccordement AKZO
+Ahb:Arnhem Berg
+Ahbf:Aachen Hbf (Aken) (D)
+Ahbo:Arnhem Berg Oost
+Ahg:Arnhem Goederenstation
+Ahkema:Arnhem raccordement KEMA
+Ahp:Arnhem Velperpoort
+Ahpr:Arnhem Presikhaaf
+Ahwa:Arnhem West Aansluiting
+Akl:Arkel
+Akm:Akkrum
+Al:Alphen (N.B.)
+Alb:Abbekerk-Lamb.schaag
+Alm:Almere CS
+Alm 3:Almere 3 (voorlopig)
+Alm 5:Almere 5 (voorlopig)
+Alm3:Almere 3
+Alm5:Almere 5
+Almb:Almere Buiten
+Almbo:Almere Buiten Oost
+Almbw:Almere Buiten West
+Almm:Almere Muziekwijk
+Almmo:Almere Muziekwijk (overloopwissels)
+Almp:Almere Parkwijk
+Am:America
+Ama:Amersfoort Aansluiting
+Amf:Amersfoort
+Amf Gs:Amersfoort Gemeentelijke Stamlijn
+Amf Wph:Amersfoort Hoofdwerkplaats
+Amfbd:Amersfoort Bokkeduinen
+Amfpon:Amersfoort raccordement Pon
+Amfs:Amersfoort Schothorst
+Amfv:Amersfoort Vlasakkers
+Amfva:Amersfoort Vlasakkers Aansluiting
+Amfvat:Amersfoort Vathorst
+Amfw:Amersfoort Hoofdwerkplaats (wgl-groep)
+Amfwph:Amersfoort Hoofdwerkplaats
+Amfww:Amersfoort Wagenwerkplaats (wgl-groep)
+Aml:Almelo
+Aml Dol:Almelo Dollegoor
+Amlbp:Almelo raccordement Bedrijvenpark NW Twente
+Amlbpa:Almelo raccordement Bedrijvenpark NW Twente Aansluiting
+Amo:Almere Oost
+Amr:Alkmaar
+Amr Gs:Alkmaar Gemeentelijke Stamlijn
+Amri:Almelo de Riet
+Amrn:Alkmaar Noord
+Amu:Utrecht Algemeen Magazijn
+Amw:Almere West
+Ana:Anna Paulowna
+Ao:Aalsmeer Oost
+Apd:Apeldoorn
+Apda:Apeldoorn Aansluiting
+Apdi:Apeldoorn Industrieterrein
+Apdlng:Apeldoorn raccordement Leonard Lang
+Apdvam:Apeldoorn raccordement VAM
+Apg:Appingedam
+Apl:Ter Apel
+Aplg:Ter Apel Rijkgrens
+Apn:Alphen a/d Rijn
+Apn Ir:Alphen a/d Rijn Industrieterrein Rijnhaven
+Arb:Arnebruggen
+Arn:Arnemuiden
+Arnsb:Arnsberg (D)
+Asa:Amsterdam Amstel
+Asai:Amsterdam Amstel Industrieterrein
+Asb:Amsterdam Bijlmer
+Asbd:Amsterdam Bovendok
+Asbo:Amsterdam Borneokade
+Asd:Amsterdam CS
+Asd Wpl:Amsterdam Lijnwerkplaats
+Asdar:Amsterdam Arena
+Asdcm:Amsterdam Centrale Markt
+Asdg:Amsterdam Geuzenveld
+Asdh:Amsterdam Hemhaven (hele gebied)
+Asdi:Amsterdam Industrieterrein Cruquiusweg
+Asdl:Amsterdam Lelylaan
+Asdm:Amsterdam Muiderpoort
+Asdma:Amsterdam Muiderpoort Aansluiting
+Asdmw:Amsterdam Muiderpoort Westzijde
+Asdnh:Amsterdam Neptunushaven
+Asdo:Amsterdam Oost
+Asdoe:Amsterdam Oostelijk Eiland
+Asdptt:Amsterdam PTT
+Asdptta:Amsterdam PTT Aansluiting
+Asdr:Amsterdam Sloterdijk Noord Radarweg
+Asdta:Amsterdam Transformatorweg Aansluiting
+Asdv:Amsterdam De Vlugtlaan
+Asdw:Amsterdam West
+Asdwe:Amsterdam Westelijk Eiland
+Asdwpl:Amsterdam Lijnwerkplaats
+Asdz:Amsterdam Zuid WTC
+Asgo:Amsterdam Goederenstation Oost
+Asgw:Amsterdam Goederenstation West
+Ash:Amsterdam Haarlemmermeer
+Asho:Amsterdam Sloterdijk Noord Hornweg
+Asl:Assel
+Asm:Aalsmeer
+Asn:Assen
+Asr:Amsterdam Riekerpolder
+Asra:Amsterdam Riekerpolder Aansluiting
+Ass:Amsterdam Sloterdijk
+Asv:Amstelveen
+Aswd:Amsterdam Westerdoksdijk
+Aswpla:Amsterdam Lijnwerkplaats Aansluiting
+Aswplm:Amsterdam Lijnwerkplaats Midden
+Aswpln:Amsterdam Lijnwerkplaats Noord
+Aswplz:Amsterdam Lijnwerkplaats Zuid
+Aszo:Amsterdam Zuid-Oost
+At:Acht
+Atl:Acht Losplaats
+Atn:Aalten
+Atw:Antwerpen Centraal (B)
+Atwa:Antwerpen Angola (B)
+Atwd:Antwerpen Dam (B)
+Atwn:Antwerpen Noord (B)
+Atwsp:Antwerpen Westelijke splitsing (B)
+Augsbu:Augsburg (D)
+Aulnoy:Aulnoye (F)
+Avh:Avenhorn
+Avign:Avignon (F)
+Aw:Aachen West (D)
+Awg:Aachen West Grens (D)
+Awhv:Amsterdam Westhaven (gebied)
+Awhva:Amsterdam Westhaven Aansluiting
+Ax:Axel
+Axa:Axel Aansluiting
+Axa Vl:Axel Axelse Vlakte
+Az:Rotterdam Aansluiting ZHES
+Badhar:Bad Harzburg (D)
+BadhÃ¶n:Bad HÃ¶nningen (D)
+Badwil:Bad Wildungen (D)
+Bar:Baarle Nassau Dorp
+Bas:Basel (CH) (wgl-groep)
+Baselb:Basel Bal (CH)
+Basels:Basel SBB (CH)
+Bbd:Bobeldijk-Berkhout
+Bberge:Blankenberge (B)
+Bbg:Beekbergen
+Bbr:Babberich
+Bcl:Borculo
+Bd:Breda
+Bd Sph:Breda Speelhuislaan
+Bda:Breda Aansluiting
+Bdcsm:Breda raccordement CSM
+Bde:Bunde
+Bdg:Bodegraven
+Bdl:Budel
+Bdlg:Budel Grens
+Bdlleg:Budel raccordement Legerplaats
+Bdm:Bedum
+Bdp:Blijdorp
+Bdpb:Breda-Prinsenbeek
+Bdt:Bredevoort
+Bed:Bosch en Duin
+Bek:Berkel
+Berch:Antwerpen-Berchem (B)
+Bercha:Berlin Charlottenburg (D)
+Bern:Bern (CH)
+Berost:Berlin Ost (D)
+Berzoo:Berlin Zoologischer Garten (Berlin Zoo)(D)
+Bes:Beers
+Bestw:Bestwig (D)
+Bet:Best
+Bet Rt:Betuwe route
+Beth:Best Halte
+Bez:Beltrum-Zieuwent
+Bf:Baflo
+Bfd:Belfeld
+Bg:Berghem
+Bga:Beugen Aansluiting
+Bgk:Beugen Kruispunt
+Bgn:Bergen op Zoom
+Bgn Gst:Bergen op Zoom Gem. Stamlijn Theodorushaven
+Bgn Ilm:Bergen op Zoom Industrieterrein De Lage Meren
+Bgnphm:Bergen Op Zoom raccordement Philip Morris
+Bgns:Bergen Op Zoom Aansluiting Stamlijn
+Bgnwp:Bergen Op Zoom werkplaats fa. Jansen
+Bgr:Beugen-Rijkevoort
+Bh:Bad Bentheim (D)
+Bha:Maastricht Beatrixhaven Aansluiting
+Bhg:Bad Bentheim Grens (D)
+Bhl:Bad Bentheim Loco (D) (wgl-groep)
+Bhv:Bilthoven
+Bhvg:Beverwijk Hoogovens Van Gelder
+Biasca:Biasca (I)
+Bik:Berlikum
+Bischo:Bischofshofen (D)
+Bk:Beek-Elsloo
+Bkd:Beukelsdijk
+Bkda:Amersfoort Bokkeduinen Aansluiting
+Bke:Berkel-Enschot
+Bkf:Bovenkarspel Flora
+Bkg:Bovenkarspel-Grootebroek
+Bkh:Den Haag Binckhorst
+Bkl:Breukelen
+Bkla:Breukelen Aansluiting
+Bkm:Baexum-Heythuysen
+Bko:Boekelo
+Bkp:Blauwkapel
+Bkr:Blokker
+Bl:Beilen
+Bld:Baarland
+Blij:Blija
+Bll:Bloemendaal
+Bln:Blauwkapel Noord Aansluiting
+Blo:Blauwkapel Oost Aansluiting
+Bloa:Aansluiting van de hoge sporen bij Blauwkapel Oost.
+Blw:Blauwkapel West Aansluiting
+Blz:Blauwkapel Zuid Aansluiting
+Bmbr:Beneden Merwede (Brug bij Sdt)
+Bmn:Brummen
+Bmr:Boxmeer
+Bn:Borne
+Bnc:Barneveld Centrum
+Bnd:Barneveld Dorp
+Bng:Baarle Nassau Grens
+Bnk:Bunnik
+Bnkg:Bunnik Goederen
+Bnn:Barneveld Noord
+Bnnh:Buinen
+Bnv:Barneveld-Voorthuizen
+Bnva:Barneveld Aansluiting
+Bnvl:Barneveld Losplaats
+Bobr:Boorn (Brug bij Akm)
+Bochum:Bochum Hbf (D)
+Bol:Broek Op Langedijk brug over kanaal
+Bon:Born
+Bon Fh:Born Franciscushaven
+Bot:Botlek
+Botbr:Botlekbrug
+Botth:Botlek raccordement Theemsweg
+Bottha:Botlek raccordement Theemsweg Aansluiting
+Bp:Buitenpost
+Bpm:Schoonebeek aansluiting NAM (voorheen:Bataafse Petroleummaatschappij)
+Br:Blerick
+Br Wpl:Blerick Werkplaats
+Brauns:Braunschweig Hbf (D)
+Brd:Barendrecht
+Brda:Barendrecht aansluiting
+Brdv:Barendrecht Vork
+Bremen:Bremen Hbf (D)
+Bressx:Bressoux (B)
+Brh:Broekheurne
+Brilon:Brilon Wald (D)
+Brk:Broek op Langendijk
+Brl:Borsselen
+Brld:Borsselsche Dijk
+Brls:Borsselen Steiger
+Brn:Baarn
+Brna:Baarn Aansluiting
+Brst:Blerick steunpunt Ep
+Brugge:Brugge (Bruges) (B)
+Brusc:Brussel-Centraal (Bruxelles-Central) (B)
+Brusn:Brussel-Noord (Bruxelles-Nord) (B)
+Brusz:Brussel-Zuid (Bruxelles-Midi) (B)
+Brv:Barneveld
+Brz:Breezand
+Bs:Broeksteeg
+Bsd:Beesd
+Bsg:Bijsterweg
+Bsk:Boskoop
+Bsm:Bussum
+Bsmz:Bussum Zuid
+Bsw:Bosscheweg
+Bth:Bathmen
+Btk:Buitenkaag
+Btl:Boxtel
+Btm:Bergentheim
+Bug:Beugen
+Bulk:Bulkenaar
+BÃ¼nde:BÃ¼nde (D)
+Bv:Beverwijk
+Bvhc:Beverwijk Hoogovens Centraal
+Bvhs:Beverwijk Hoogovens Schroot
+Bvhz:Beverwijk Hoogovens Zuid
+Bvk:Bovenkerk
+Bwd:Bolsward
+Bwk:Bleiswijk-Kruisweg
+Bz:Bozum
+Bzl:Kapelle-Biezelinge
+Cas:Castricum
+Chv:Amsterdam Coenhaven
+Ck:Cuijk
+Cki:Cuijk Industrieterrein
+Cl:Culemborg
+Clb:Calandbrug
+Cmb:Crailoo Magazijn Bovenbouw
+Cn:Capelle-Nieuwevaart
+Co:Coevorden
+Coa:Coevorden Aansluiting
+Cog:Coevorden Grens
+Cps:Capelle Schollevaar
+Cpv:Capelle-Vrijhoeve
+Cr:Crailoo
+Cr Tr:Crailoo trace
+Cra:Crailoo Aansluiting
+Crs:Crailoo Bovenbouwwerkplaats
+Cruq:Amsterdam Cruquiuskade
+Cup:CUP
+Cvm:ChÃ¨vremont
+Da:Daarlerveen
+Db:Driebergen-Zeist
+Dbd:Dubbeldam
+Ddm:De Diem (overloopwissels)
+Ddn:Delden
+Ddnser:Delden raccordement Servo
+Ddr:Dordrecht
+Ddri:Dordrecht aansluiting Industrieterrein De Staart
+Ddrs:Dordrecht Stadspolders
+Ddrsa:Dordrecht Stadspolders Overloopwissels
+Ddrz:Dordrecht Zeehaventerrein
+Ddv:Dedemsvaart
+Ddzd:Dordrecht Zuid
+Dei:Deinum
+Dgok:Amsterdam Dijksgracht Kattenburg (wsls)
+Dgr:Amsterdam Dijksgracht
+Dgra:Amsterdam Dijksgracht Aansluiting
+Dgro:Amsterdam Dijksgracht Oostzijde
+Dgrw:Amsterdam Dijksgracht Westzijde
+Dh:Dalheim (D)
+Dhs:Delfshavense Schie (brug bij Schiedam)
+Dhsa:Delfshavense Schie Aansluiting
+Dhw:Driehuis-Westerveld
+Did:Didam
+Dins:Dinslaken (D)
+Dkk:Dijkerhoek
+Dkm:Dokkum-Aalsum
+Dl:Dalfsen
+Dld:Den Dolder
+Dln:Dalen
+Dlv:Dalerveer
+Dmn:Diemen
+Dmna:Diemen Aansluiting
+Dmnm:Diemen raccordement Metro
+Dmnz:Diemen Zuid
+Dmp:Driemanspolder
+Dn:Deurne
+Dnk:Denekamp
+Dnn:Drunen-Heusden
+Dor:Dorst
+Dp:Diepenveen
+Dpl:Dinxpelo
+Dr:Dieren
+Drh:Driehuis
+Drp:Dronrijp
+Ds:Doornspijk
+Dt:Delft
+Dtc:Doetinchem
+Dtch:Doetinchem de Huet
+Dtcw:Doetinchem West
+Dtg:Delft Aansluiting Ned. Gist- en Spiritusfabriek
+Dtn:Drachten
+Dtwn:Zoetermeer Delftse Wallen
+Dtz:Delft Zuid
+Duisb:Duisburg Hbf (D)
+DÃ¼lken:DÃ¼lken (D)
+Dv:Deventer
+Dv Gs:Deventer Gemeentelijke Stamlijn
+Dva:Duivendrecht Aansluiting
+Dvao:Duivendrecht Oost Aansluiting
+Dvaz:Duivendrecht Aansluiting Zuid
+Dvc:Deventer Colmschate
+Dvd:Duivendrecht
+Dvge:Deventer Goederenemplacement
+Dvgea:Deventer Goederenemplacement Aansluiting
+Dvn:Duiven
+Dvnk:De Vink
+Dw:Drouwen
+Dwb:Dubbele Wiericke (Brug tussen Wd en Bdg)
+Dwg:Dopweg
+Dwo:Driewegen-Overzande
+Dz:Delfzijl
+Dzsh:Delfzijl stamlijn Havenschap
+Dzw:Delfzijl West
+Ea:Enschede Aansluiting
+Eb:Elsbeek
+Ebg:Eibergen
+Ebk:Eerbeek
+Ec:Echt
+Ecd:Echt Dorp
+Ech:Echteld
+Ect:Rotterdam Waalhaven raccordement ECT
+Ed:Ede-Wageningen
+Edc:Ede Centrum
+Edn:Eijsden
+Edng:Eijsden Grens
+Ednzw:Eijsden raccordement Zinkwit
+Eem:Eemshaven
+Efd:Eefde
+Eg:Enschede Noord
+Ega:Enschede Zuid
+Egh:Eygelshoven
+Eha:Eindhoven Acht
+Ehb:Eindhoven Beukenlaan
+Ehs:Eindhoven Philips Strijp
+Ehv:Eindhoven
+Ehvst:Eindhoven steunpunt Ep
+Ehz:Eindhoven Zuid
+Ekd:Amsterdam Ertskade
+Ekz:Enkhuizen
+El:Elten (D)
+Elo:Exloo
+Em:Emmerich (Emmerik) (D)
+Em Tr:Eemnes tracÃ©
+Emg:Emmerich (Emmerik) Grens (D)
+Eml:Ermelo
+Emn:Emmen
+Emnakz:Emmen AKZO
+Emnb:Emmen Bargeres
+Emv:Ermerveen
+En:Echten
+Ep:Epe
+Ere:Eerde
+Erp:Europoort
+Erpw:Europoort West (voorheen:Erpbp Europoort raccordement BP)
+Es:Enschede
+Es I:Enschede Industrieterrein
+Esd:Enschede Drienerlo
+Esg:Enschede Grens
+Esh:Esch
+Esn:Essen (B)
+Esnd:Essen Hbf (D)
+Est:Elst
+Esta:Elst Aansluiting
+Et:Emst
+Etn:Etten-Leur
+Etni:Etten-Leur Gem. Industrieterrein
+Etnvos:Etten-Leur Vossendaal
+Ewd:Ellewoutsdijk
+Ex:Eext
+Flv:Flevolijn (hele gebied)
+Fn:Franeker
+Fo:Rotterdam Feijenoord
+Fo W:Feijenoord Lijnwerkplaats
+Fowpl:Feijenoord Lijnwerkplaats
+Fra:France (F) (wgl-groep)
+Frank:Frankfurt Hbf (D)
+Fsz:Zelzate (B)
+Fvs:VisÃ© (Wezet) (B)
+Fvsg:VisÃ© (Wezet) Grens (B)
+Fw:Ferwerd
+G:Gronau (D)
+Gav:Gasselternijveen
+Gb:Groesbeek
+Gbg:Gramsbergen
+Gbr:Glanerbrug
+Gbv:Grubbenvorst
+Gd:Gouda
+Gdg:Gouda Goverwelle
+Gdk:Geerdijk
+Gdm:Geldermalsen
+Gdma:Geldermalsen Aansluiting
+Gdo:Gouda Oost
+Gelder:Geldern (D)
+Gentsp:Gent St. Pieters (Gand) (B)
+Gf:Geffen
+Gha:Gravenpolder ('s)-'s Heer Abstkerke
+Ghbr:Grote Heycop (brug bij Bkl)
+Ghe:Amsterdam Gemeentelijk Handelsentrepot
+Gi:Gildehaus (D)
+Gk:Grijpskerk
+Gl:Groenlo
+Gle:Geulle
+Glk:Lanaken (B)
+Gln:Geleen Oost
+Gn:Groningen
+Gnbr:Gein (Brug bij Ac)
+Gnd:Hardinxveld-Giessendam
+Gne:Groningen Eemskanaal
+Gnl:Groningen Losplaats
+Gnn:Groningen Noord
+Gnntm:Groningen raccordement NTM
+Gnp:Gennep
+Gnpg:Gennep Grens
+Go:Goor
+Goch:Goch (D)
+Gor:Goor West
+Goslar:Goslar (D)
+Gouvy:Gouvy (B)
+Gp:Geldrop
+Gpda:Gaasperdammerweg Aansluiting
+Gr:Gorinchem
+Grbr:Oude Maas (brug bij Ddr)
+Grd:Gorredijk
+Greven:Greven (D)
+Gro:Groenekan Oost
+Grs:Greuns (brug bij Lw)
+Grv:Grave
+Grw:Groenekan West
+Gs:Goes
+Gs Ah:Gemeentelijke stamlijn Arnhem
+Gs Alm:Gemeentelijke stamlijn Almelo
+Gs Gs:Goes Gemeentelijke Stamlijn
+Gs Zp:Gemeentelijhke stamlijn Zutphen
+Gsd:Gronsveld
+Gsl:Gorssel
+Gt:Geertruidenberg
+Gv:Den Haag HS
+Gvc:Den Haag CS
+Gvl:Den Haag Loosduinseweg
+Gvm:Den Haag Mariahoeve
+Gvmw:Den Haag Moerwijk
+Gvn:Den Haag Noord
+Gvo:Den Haag Oost
+Gvz:'s Gravenzande
+Gw:Grouw-Irnsum
+Gwb:Gouwe (Brug bij Apn)
+Gwbr:Gouwe (Brug bij Gd)
+Gz:Gilze-Rijen
+Gz Io:Gilze-Rijen Industrieterrein Oosterhout
+Gzve:Gilze-Rijen raccordement Vijf Eiken
+Ha:Heer Arendskerke ('s)
+Had:Heemstede-Aerdenhout
+Hagen:Hagen Hbf (D)
+Hak:De Haak
+Hal:Haarlemmerliede
+Hamb:Hamburg (D) (wgl-groep)
+Hamh:Hamburg Hbf (D)
+Han:Haanrade
+Hang:Haanrade Grens
+Hanl:Haanrade raccordement Laurametaal
+Hann:Hannover Hbf (D)
+Har:De Haar Aansluiting
+Harn:Haaren
+Has:Hasselt (B)
+Hasp:Hanza spoorlijn
+Hat:'s-Heer Arendskerke Tram
+Hb:Hoensbroek
+Hbg:Haaksbergen
+Hbi:Houtbereidingsinrichting Dordrecht
+Hcl:Harculo raccordement
+Hd:Harderwijk
+Hd H:Harderwijk Haven
+Hdb:Hardenberg
+Hde:Harde ('t)
+Hdg:Hardegarijp
+Hdl:Hedel
+Hdp:Hoendiep (Brug bij Gn)
+Hdr:Den Helder
+Hdrh:Den Helder Haven
+Hdrz:Den Helder Zuid
+Hdt:Rotterdam Zuid Handelsterreinen
+Hdv:Hooglanderveen
+Hea:Herfte Aansluiting
+Herfd:Herford (D)
+Hfd:Hoofddorp
+Hfdm:Hoofddorp Middenspoor
+Hfdo:Hoofddorp Opstelterrein
+Hg:Haarlem Goederenstation
+Hgbr:Hoogeveense Vaart (brug bij Mp)
+Hghoen:Haarlem Goederen raccordement Hoenderdos
+Hgl:Hengelo
+Hglakz:Hengelo Akzo Zout Chemie
+Hglo:Hengelo Oost
+Hgltwc:Hengelo raccordement Twentse Centrale
+Hglvs:Hengelo Verdeelstation
+Hglz:Hengelo Zoutindustrie
+Hgv:Hoogeveen
+Hgv Gs:Hoogeveen Gemeentelijke Stamlijn
+Hgvam:Haarlem Goederen raccordement VAM
+Hgvs:Hooge Vuursche
+Hgz:Hoogezand-Sappemeer
+Hh:Hulshorst
+Hhk:'s-Heer Hendrikskinderen
+Hhl:Hooghalen
+Hhn:Heijerhoeven
+Hhv:Amsterdam Houthaven
+Hij:Hijkersmilde
+Hil:Hillegom
+Hildes:Hildesheim Hbf (D)
+Hjd:Heerjansdam
+Hk:Heemskerk
+Hkb:Herkenbosch
+Hkd:Hazerswoude-Koudekerk a/d Rijn
+Hkdp:Hekendorp
+Hkk:Hoedekenskerke
+Hks:Hoogkarspel
+Hkz:Heinkenszand
+Hl:Hengelo G.O.L.S.
+Hlb:Hillegersberg
+Hlba:Hillegersberg Aansluiting
+Hld:Hoek van Holland Haven
+Hlds:Hoek van Holland Strand
+Hlg:Harlingen
+Hlga:Harlingen Aansluiting
+Hlgge:Harlingen Goederenemplacement
+Hlgh:Harlingen Haven
+Hll:Hallum
+Hlm:Haarlem
+Hlm Wph:Haarlem Hoofdwerkplaats
+Hlms:Haarlem Spaarnwoude
+Hlmvam:Haarlem raccordement VAM
+Hlmw:Haarlem Hoofdwerkplaats (wgl-groep)
+Hlmwph:Haarlem Hoofdwerkplaats (oude afkorting)
+Hln:Haelen
+Hlo:Heiloo
+Hlv:Helenaveen
+Hlw:Holwerd
+Hm:Helmond
+Hmb:Hembrug
+Hmbh:Helmond Brouwhuis
+Hmh:Helmond 't Hout
+Hmla:Harmelen Aansluiting
+Hmn:Hemmen-Dodewaard
+Hmt:Hamont (B)
+Hmta:Hemtunnel Aansluiting
+Hn:Hoorn
+Hna:Hoorn Aansluiting
+Hnk:Hoorn Kersenboogerd
+Hno:Heino
+Hnp:Hindeloopen
+Hnt:Hantum
+Holy:Holyspoorlijn
+Hon:Holten
+Hor:Hollandsche Rading
+Hov:Hoge Vaart
+Hr:Heerenveen
+Hrd:Heerde
+Hrh:Heerenhoek ('s)
+Hrij:Heerenveen IJsstadion
+Hrl:Heerlen
+Hrla:Heerlen Aansluiting
+Hrlkop:Heerlen raccordement Glasmij/Koppen
+Hrm:Harinxmakanaal (brug Lw-Drp/Mg)
+Hrmk:Harinxmakanaal (brug Lw-Gw)
+Hrn:Haren
+Hrnav:Haren Aansluiting
+Hrp:Amsterdam Houtrakpolder (voorheen:Heerenpolder)
+Hrpa:Amsterdam Houtrakpolder Aansluiting
+Hrt:Horst-Sevenum
+Hs:Haps
+Hsl:Hogesnelheidslijn
+Hsl1:Hogesnelheidslijn zuidelijke delen
+Hsl2:Hogesnelheidslijn noordelijke delen
+Ht:Hertogenbosch ('s)
+Ht Gs:'s-Hertogenbosch Gemeentelijke Stamlijn
+Htb:Hattemerbroek
+Htda:'s-Hertogenbosch Diezebrug Aansluiting
+Hth:Huis ter Heide
+Htm:Hattem
+HTMU:Herstelpunt Tractie & Materieel Utrecht
+Htn:Houten
+Hto:'s-Hertogenbosch Oost
+Hu:Hijum
+Hul:Hulst
+Hulg:Hulst Grens
+Hv:Helvoirt
+Hvb:Dordrecht Houtverwerkingsbedrijf
+Hvbr:Haven (brug bij Mss)
+Hvn:Hoeven
+Hvo:Havenschap Vlissingen Oost
+Hvs:Hilversum
+Hvsn:Hilversum Noord
+Hvsp:Hilversum Sportpark
+Hvspl:Havenspoorlijn
+Hvvb:Brug over de Hoogeveense Vaart (bij Na)
+Hw:Halfweg
+Hwd:Heerhugowaard
+Hz:Herzogenrath (D)
+Hze:Heeze
+Hzl:Hooge Zwaluwe
+Ibbenb:IbbenbÃ¼ren (D)
+Id:Idaard-Roodahuizem
+IJbrzl:IJsselbrug Zwolle
+IJbww:IJsselbrug Westervoort Westzijde
+IJbz:IJsselbrug Zutphen
+IJbza:IJsselbrug Zutphen Aansluiting
+IJkd:Amsterdam IJkade
+IJm:IJmuiden
+IJmc:IJmuiden Casembrootstraat
+IJmh:IJmuiden Haven
+IJmj:IJmuiden Julianakade
+IJsm:IJsselmonde Rangeerterrein
+IJsma:IJsselmonde Rangeerterrein Aansluiting
+IJss:IJsselstein (hele gebied)
+IJssa:Achterveld (SU)
+IJssc:Clinkhoeff (SU)
+IJsse:Eiteren (SU)
+IJssh:Hooghe Waerd (SU)
+IJt:IJlst
+Ip:Ilpendam
+Jbx:Jellum-Boxum
+Jlp:Jollenpad
+Jn:Junne
+Jo:Jorwerd
+Kbd:Krabbendijke
+Kbk:Klarenbeek
+Kbw:Koog Bloemwijk
+Kd:Knardijk
+Kdk:Kwadijk
+Kdm:Kwadendamme
+Kdw:Kwadijk
+Ke:Kethel
+Kel:Kelpen
+Kempen:Kempen (D)
+Kfh:Kijfhoek
+Kfhan:Kijfhoek Aansluiting Noord
+Kfhaz:Kijfhoek Aansluiting Zuid
+Kg:Koekange
+Kgn:KÃ¶ln Gremberg Nord (Keulen Gremberg Noord) (D) (wgl-groep)
+Kgs:Koegras (burg over Noordhollandsch Kanaal)
+Kgz:KÃ¶ln Gremberg SÃ¼d (Keulen Gremberg Zuid) (D) (wgl-groep)
+Khbr:Koningshavenbrug
+Kijk:Kijkuit
+Kjl:Nieuwe Kalfjeslaan
+Klp:Veenendaal-De Klomp
+Km14.0:km 140 (ergens bij Hv?)
+Km52.0:km 520 (ergens tussen Ama en Bnv)
+Kma:Krommenie-Assendelft
+Kmr:Klimmen-Ransdaal
+Kmw:Koudum-Molkwerum
+Kn:Kaldenkirchen (D)
+Knl:Kaldenkirchen Loco (wgl-groep) (D)
+Knokke:Knokke (B)
+Ko:Kootwijk
+KÃ¸benh:KÃ¸benhavn Hovedb. (Kopenhagen) (DK)
+Koblen:Koblenz Hbf (D)
+Koe:Koedijk
+Koen:Koedijk Noordeinde
+Kohl:Kohlscheid (D)
+KÃ¶ln:KÃ¶ln Hbf (Keulen) (D)
+Korb:Korbach (D)
+Kpn:Kampen
+Kr:Klifrak (brug bij Wk)
+Krag:Kragge
+Kraga:Kragge Aansluiting
+Krb:Kranenburg (D)
+Krd:Kerkrade Centrum
+Kref:Krefeld Hbf (D)
+Krg:Kruiningen-Yerseke
+Krst:Kortsluitroute 950 lijn
+Krw:Kerkrade West
+Ktd:Kattendijke
+Ktg:Kloetinge
+Ktp:Kloetinge Postweg
+Ktr:Kesteren
+Kv:Keverdijk
+Kvlr:Kevelaer (D)
+Kw:Kropswolde
+Kwda:Katwolde Aansluiting
+Kwl:Kwakel (de)
+Kzd:Koog-Zaandijk
+La:Loolaan Aansluiting NAM
+Laa:Den Haag Laan van NOI
+Lak:Lunetten Aansluiting Kruispunt
+Lar:Laarwald (D)
+Lc:Lochem
+Ld:Leiden Goederenstation
+Ldd:Leidschendam
+Ldh:Leiden Herensingel
+Ldl:Leiden Lammenschans
+Ldm:Leerdam
+Ldv:Leidschendam-Voorburg
+Ldv Wpl:Leidschendam Lijnwerkplaats
+Ldva:Leidschendam-Voorburg Aansluiting
+Ledn:Leiden
+Ledng:Leiden Gasfabriek
+Leer:Leer (D)
+Leuven:Leuven (Louvain) (B)
+Ley:Zoetermeer De Leyens
+Lg:Landgraaf
+Lin:Linne Aansluiting (SOLVAY)
+Linzr:Linz am Rhein (D)
+Lis:Lisse
+Lk:Leek
+Lls:Lelystad Centrum
+Llsi:Lelystad Industrieterrein
+Llso:Lelystad Opstelterrein
+Llsow:Lelystad Overloopwissels
+Llsz:Lelystad Zuid
+Llszo:Lelystad Zuid Overloopwissels
+Lmp:Legmeerpolder
+Lmr:Lemmer
+Ln:Lunetten
+Lna:Lunetten Aansluiting
+Lng:Linne Grinderij
+Lnk:Lonneker
+Lnks:Lonneker Steenfabriek
+Lnn:Loenen
+Lnp:Neerpelt (B)
+Lo:Loo (het)
+Lodu:Loosduinen
+Lohne:Lohne
+Los:Losser
+Lp:Loppersum
+Lpe:Liempde
+Lpev:Liempde Velder
+Lpo:Legerplaats Oldenbroek
+Lr:Laren-Almen
+Lsdm:Leidschendam
+Lsn:Lelystad Noord
+Lso:Laag Soeren
+Lst:Laarstraat
+Lsz:Lelystad Zuid
+Ltm:Lottum
+Ltn:Lunteren
+Ltnz:Lunteren Zanderij
+Ltv:Lichtenvoorde-Groenlo
+Luik:LiÃ¨ge (Luik) (B)
+Lut:Geleen-Lutterade
+Luta:Lutterade Aansluiting (DSM)
+Lutdsm:Lutterade raccordement DSM
+Lux:Luxemburg (L)
+Lv:Lage Vaart
+Lw:Leeuwarden
+Lw Iz:Leeuwarden Industrieterrein Zwette
+Lwc:Leeuwarden Camminghaburen
+Lwd:Lewedorp
+Lwg:Langeweg
+Lwpti:Leeuwarden raccordement PTI
+Lwsks:Leeuwarden Schenkenschans
+Lzm:Laag Zuthem
+Mabr:Mark (brug tussen Zvb en Odb)
+Man:Mannheim (D) (wgl-groep)
+Mas:Maarssen
+Mb:Maarsbergen
+Mbga:Muiderberg Aansluiting
+Mbh:Maasbrug Hedel
+Mbk:Medemblik
+Mbrvo:Maasbrug Ravenstein Oostzijde
+Mbrvw:Maasbrug Ravenstein Westzijde
+Mbt:Maasbracht
+Mcgb:MÃ¶nchengladbach Hbf (D)
+Md:Moordrecht
+Mda:Moordrecht Aansluiting
+Mdaz:Moordrecht Aansluiting Zuid
+Mdb:Middelburg
+Mdbr:Moerdijkbrug
+Mdbz:Moerdijkbrug Zuid Aansluiting
+Mdk:Moerdijk raccordement
+Mdk I:Moerdijk Industrieterrein
+Mdn:Made en Drimmelen
+Mdo:Moordrecht Aansluiting Oost
+Mdsa:Muiderstraatweg Aansluiting
+Mdz:Muiderzand
+Mech:Mechelen (Malines) (B)
+Mes:Meerssen
+Mesch:Meschede (D)
+Mg:Mantgum
+Mh:De Marshoek
+Mijd:Mijdrecht
+Mil:Mill
+Minden:Minden (D)
+Mk:Markelo
+Mkbr:Merwedekanaal (brug bij Akl)
+Mkg:Hoek Makkinga
+Mkv:Musselkanaal-Valthermond
+Mlo:Meerlo-Tienraij
+Mmd:Meeden-Muntendam
+Mn:Minnertsga
+Mo:Mook-Middelaar
+Mons:Mons (Bergen) (B)
+Mow:Midwoud-Oostwoud
+Mp:Meppel
+Mpa:Meppel Aansluiting
+Mpl:Mooie Paal
+Mrb:MariÃ«nberg
+Mrg:Maarn Goederen
+Mrl:Mierlo
+Mrn:Maarn
+Mrnz:Maarn Zanderij
+Mss:Maassluis
+Msw:Maassluis West
+Mt:Maastricht
+Mt W:Maastricht Lijnwerkplaats
+Mtb:Maastricht Boschpoort
+Mtbknp:Maastricht Boschpoort raccordement K.N.P.
+Mtg:Maastricht Grens
+Mth:Martenshoek
+Mtk:Maartensdijk
+Mtr:Maastricht Randwyck
+Mttrix:Maastricht raccordement Beatrixhaven
+Mtwpl:Maastricht Lijnwerkplaats
+Mtz:Maastricht Zuid
+MÃ¼lh:MÃ¼lheim (Ruhr) Hbf (D)
+Mus:Amsterdam Museumplein
+Mvect:Maasvlakte raccordement ECT
+Mvemo:Maasvlakte raccordement EMP
+Mvt:Maasvlakte
+Mvtw:Maasvlakte West
+Mz:Maarheeze
+Na:Nieuw Amsterdam
+Naa:Nieuw Amsterdam Aansluiting
+Nb:Noordbroek
+Nbn:Nieuw Buinen
+Nd:Neede
+Nda:Nootdorp Aansluiting
+Ndb:Naarden-Bussum
+Ndk:Noordwijk
+Ndo:Nootdorp Oost
+Ndp:Nieuwdorp
+Ndst:Nadorst
+Ndw:Nederweert
+Ne:Nuenen
+Neuss:Neuss Hbf (D)
+Nevam:Nuenen raccordement VAM
+Ng:Nagouw
+Ngaz:St. Antonius Ziekenhuis (SU)
+Ngb:Nieuwegein Batau Noord (SU)
+Ngc:Nieuwegein Centrum (SU)
+Ngd:Doorslag (SU)
+Ngf:Fokkesteeg (SU)
+Ngm:Merwestein (SU)
+Ngr:Nieuwegein Remise
+Ngra:Nieuwegein Remise Aansluiting (SU)
+Ngsc:Nieuwegein Stadscentrum
+Ngw:Wijkersloot (SU)
+Ngwd:Wiersdijk (SU)
+Ngz:Nieuwegein Zuid
+Ngzl:Zuilenstein (SU)
+Nh:Nuth
+Nhk:Noord-Hollandschkanaal (brug bij Pmr)
+Nhkbr:Noord-Hollandschkanaal (brug bij Amr)
+Ni:Nisse
+Niklaa:Sint-Niklaas (Saint-Nicolas) (B)
+Nkk:Nijkerk
+Nkk H:Nijkerk Haven (opgebroken) eig. ns
+Nm:Nijmegen
+Nm Gs:Nijmegen Gemeentelijke Spooraansluiting
+Nmd:Nijmegen Dukenburg
+Nmg:Nijmegen Grens
+Nmh:Nijmegen Heyendaal
+Nmr:Nieuwe Meer (brug bij Asd)
+Nmvam:Nijmegen raccordement VAM
+Nnvbr:Nauernaschevaart (brug bij Kma)
+Nrw:Nijenrodeweg
+Ns:Nunspeet
+Nscg:Nieuweschans Grens
+Nsch:Nieuweschans
+Nspl:Haarlem Noordelijke splitsing
+Nst:Nieuwstadt
+Nsw:Noord Scharwoude
+Nswd:Noord Scharwoude Dorp
+Nvbr:Nieuwe Veerbrug (brug tussen Bd en Zlw)
+Nvd:Nijverdal
+Nvds:Nijverdal Stoomweverij
+Nvdz:Nijverdal Zuid
+Nvn:Nijeveen
+Nvp:Nieuw Vennep
+Nwg:Nieuwegein (hele SU-gebied)
+Nwh:Noordwijkerhout
+Nwk:Nieuwerkerk a/d IJssel
+Nwka:Nieuwerkerk Aansluiting
+Nwl:Schiedam Nieuwland
+Nws:Nieuwersluis-Loenen
+Nwtbr:Nieuwe Wetering (brug bij Nws)
+O:Oss
+OGs:Oss Gemeentelijke Spooraansluiting e.a.
+Ob:Oosterbeek Laag
+Obd:Obdam
+Oberh:Oberhausen Hbf (D)
+Obpa:Overbrakerpolder Aansluiting (tussen Ass (laag) en Sgra)
+Ochv:Oss raccordement CeHaVe
+Od:Oudewater
+Odb:Oudenbosch
+Odg:Oudega
+Odl:Oudelande
+Odm:Oudemolen
+Odo:Oudewater Overloopwissels
+Ods:Oosterdoksluis (brug over dete Asd)
+Odw:Oudewater Wachtsporen
+Odz:Oldenzaal
+Odz I:Oldenzaal Industrieterrein
+Odzg:Oldenzaal Grens
+Oelz:Oss raccordement Elzenburg
+Oeyn:Bad Oeynhausen (D)
+Of:Oeffelt
+Ohz:Oosthuizen
+Ohze:Oud Heeze
+Oij:Oude IJssel (brug bij Dtc)
+Ok:Oostdijk
+Ol:Oude Land
+Olden:Oldenburg (Oldb) Hbf (D)
+Olv:Onze Lieve Vrouwe ter Nood
+Omn:Ommen
+On:Onnen
+On R:Onnen Rangeerterrein
+On W:Onnen Lijnwerkplaats
+Onn:Onnen Noord
+Onp:Oude Nieuwlandpolder
+Onwpl:Onnen Lijnwerkplaats
+Onz:Onnen Zuid
+Oosten:Oostende (B)
+Op:Opheusden
+Ophil:Oss raccordement Philips
+Opw:Oude Polderweg
+Os:Opperdoes
+Osna:OsnabrÃ¼ck (D) (wgl-groep)
+Osnh:OsnabrÃ¼ck Hbf (D)
+Ost:Olst
+Ot:Oisterwijk
+Otb:Oosterbeek
+Oth:Orthen
+Ott:Oosterhout (busdienst)
+Otve:Oosterhout raccordement Vijf Eiken
+Otw:Oosterhout Weststad (racc.)
+Ovn:Overveen
+Ow:Oss West (voorheen:Oudelandscheweg)
+Oz:Oud Zwijndrecht
+Ozbm:Oud Zaltbommel
+Ozn:Oostzaan
+Pap:Pampuspad
+Paris:Paris (Parijs) (F)
+Pch:De Perponcherpolder
+Pei:Peize
+Phv:Amsterdam Petroleumhaven
+Pl:Philippine
+Pld:Poeldijk
+Pmk:Prinses Margrietkanaal (brug bij Gw)
+Pmo:Purmerend Overwhere
+Pmr:Purmerend
+Pn:Punt (de)
+Pnk:Pijnacker
+Pop:De Poppe
+Pp:Peperga
+Ps:Pernis
+Pt:Putten
+Pth:Poortershaven
+Putt:Puttgarden (D)
+Quenti:St. Quentin (F)
+Rai:Amsterdam RAI
+Rat:Raalte
+Rb:Rilland-Bath
+Rbh:Revisiebedrijf Haarlem
+Rbrd:Rotterdam Barendrecht
+Rd:Roodeschool
+Rd E:Roodeschool Eemshaven
+Rda:Roodeschool Aansluiting
+Rdk Tr:Ridderkerk tracÃ©
+Rdn:Roden
+Rdp:Reitdiep (brug bij Gn)
+Rdr:Berkel en Rodenrijs
+Rdv:Raamsdonkveer
+Re1:Rotterdam Europoort 1
+Re2:Rotterdam Europoort 2
+Re3:Rotterdam Europoort 3
+Reh:Rotterdam Eemhaven
+Rh:Rheden
+Rheine:Rheine (D)
+Rheydt:Rheydt Hbf (D)
+Rhge:Rheden Goederenemplacement
+Rhn:Rhenen
+Rhv:Rotterdam Rijnhaven
+Rich:Richterich (D)
+Rijo:Rotterdam Ijsselmonde Opstelterrein
+Ril:Riel
+Rk:Raamsdonksveer
+Rkp:Riekerpolder
+Rl:Ruurlo
+Rlb:Rotterdam Lombardijen
+Rm:Roermond
+Rmo:Rotterdam Rechter Maasoever
+Rmoa:Rotterdam Rechter Maasoever Aansluiting
+Rmsolv:Roermond raccordement Solvay
+Rol:Rolde
+Rs:Rosmalen
+Rsa:Ressen Aansluiting
+Rsb:Ressen-Bemmel
+Rscw:Railservice Center Waalhaven
+Rsd:Roosendaal
+Rsd Bw:Roosendaal Borchwerf
+Rsd I:Roosendaal Industrieterrein
+Rsd Wpw:Roosendaal Wagenwerkplaats
+Rsdg:Roosendaal Grens
+Rsdphi:Roosendaal raccordement Philips
+Rsdwpw:Roosendaal wagenwerkplaats
+Rskbl:Rijn-Schiekanaal (brug bij Ldl)
+Rskbv:Rijn-Schiekanaal (brug bij Vb)
+Rsl:Rensel (brug tussen Ws en Nsch)
+Rsn:Rijssen
+Rsw:Rijswijk
+Rt:Rotterdam
+Rta:Rotterdam Alexander
+Rtb:Rotterdam Blaak
+Rtbw:Rotterdam Bergweg
+Rtd:Rotterdam CS
+Rtdz:Rotterdam Zuid
+Rtg:Rotterdam Goederen
+Rth:Rotterdam Hofplein
+Rtkw:Rotterdam Kleiweg
+Rtkwa:Rotterdam Kleiweg Aansluiting
+Rtl:Amsterdam Rietlanden
+Rtlo:Rotterdam Linker Maasoever
+Rtmv:Rotterdam Maasvlakte
+Rtmvw:Rotterdam Maasvlakte West
+Rtn:Rotterdam Noord
+Rtng:Rotterdam Noord Goederenstation
+Rtngo:Rotterdam Noord Goederen Oost
+Rtngw:Rotterdam Noord Goederen West
+Rtsp:Rotterdam Spaanse Polder
+Rtssn:Rotterdam Aansluiting SSN
+Rtst:Rotterdam Stadion
+Rtwp:Rotterdam Wilgenplas
+Rtz:Rotterdam Zuid
+Rtzg:Rotterdam Zuid Goederenstation
+Rtzgk:Rotterdam Zuid Goederen
+Rv:Reuver
+Rvbr:Ringvaart Haarlemmermeer (brug tussen Ledn en Nvp)
+Rvs:Ravenstein
+Rwhv:Rotterdam Waalhaven
+Rzfo:Rotterdam Zuid Feijenoord Oost
+S833:Sein 833 (tussen Blz en Blo)
+Sap:St. Anna Parochie
+Sb:Schoonebeek
+Sbg:Stobbegat
+Sbk:Spaubeek
+Sch:Schoorl
+Schie:Schiebroek
+Sd:Soestdijk
+Sda:Scheemda
+Sdl:Schijndel
+Sdm:Schiedam-Rotterdam West
+Sdn:Soestduinen
+Sdt:Sliedrecht
+Sgl:Houthem-St. Gerlach
+Sgm:Scharnegoutum
+Sgn:Schagen
+Sgr:Amsterdam Singelgracht
+Sgra:Amsterdam Singelgracht Aansluiting
+Shb:Suurhofbrug (brug over Hartelkanaal)
+Shl:Schiphol
+Shlh:Schiphol Luchthaven
+Shlw:Schipholweg
+Siegen:Siegen (D)
+Sj:St Jacobi Parochie
+Sk:Sneek
+Skbr:Schinkel (brug bij Asdz)
+Skd:Schiekade
+Skn:Stadskanaal Hoofdstation
+Sknd:Sneek Noord
+Skp:Stadskanaal Pekelderweg
+Skw:Schalkwijk
+Slg:Straelen Grens
+Sli:Utrecht Spoorstaaflasinrichting
+Sloe:Sloehaven
+Slohst:Sloehaven raccordement Hoechst
+Slp:Sloterpas
+Slu:Sluiskil
+Slua:Sluiskil Aansluiting
+Slub:Sluiskilbrug
+Sludow:Sluiskil raccordement Dow Chemical
+Sm:Swalmen
+Smd:Smeetlandschedijk
+Smk:Sambeek
+Sn:Schinnen
+Sog:Schin op Geul
+Sp:Seppe
+Spa:Snippeling Aansluiting
+Spb:Springbiel
+Spbr:Spaarne (brug bij Hlm)
+Spgn:De Sprengen
+Spm:Sappemeer Oost
+Sptn:Santpoort Noord
+Sptz:Santpoort Zuid
+Spv:Simpelveld
+Spvg:Simpelveld Grens
+Srn:Susteren
+Srnge:Susteren Goederenemplacement
+Ssl:Sterksel
+St:Soest
+Std:Sittard
+Stg:De Steeg
+Sth:Staphorst
+Stm:Stedum
+Sto:Stroe
+Sts:Stiens
+Stv:Stavoren
+Stz:Soest Zuid
+SU:Sneltram Utrecht
+Svg:Sas van Gent
+Svgg:Sas van Gent Grens
+Swd:Sauwerd
+Swk:Steenwijk
+Sze:Seelze (D)
+Tb:Tilburg
+Tb Io:Tilburg Gemeentelijke Stamlijn
+Tb W:Tilburg Hoofdwerkplaats
+Tba:Tilburg Aansluiting
+Tbg:Terborg
+Tbge:Tilburg Goederenemplacement
+Tbi:Tilburg industrieterrein
+Tbw:Tilburg Hoofdwerkplaats (wgl-groep)
+Tbwph:Tilburg Hoofdwerkplaats
+Tbwt:Tilburg West
+Tg:Tegelen
+Tge:Tilburg Goederen
+Tgra:Tongelre Aansluiting
+Tk:Twisk
+Tl:Tiel
+Tl Gs:Tiel Gemeentelijke Stamlijn
+Tla:Tiel Aansluiting Industrieterrein
+Tn:Ternaard
+Tnz:Terneuzen
+Tnza:Terneuzen Aansluiting
+Tnzst:Terneuzen Steunpunt Ep
+Tnzz:Terneuzen Zuidzijde (raccordement)
+Tr:Terschuur
+Troisp:Trois-Ponts (B)
+Trz Dow:Terneuzen Dow Chemical
+Twl:Twello
+Tws:Terwinselen
+Tzum:Tzummarum
+Uc:Rotterdam Waalhaven raccordement Unitcentre
+Ud:Uden
+Udt:Udenhout
+Uh:Uithoorn
+Uhm:Uithuizermeeden
+Uhn Ic:Uithoorn Industrieterrein Cindu
+Uhz:Uithuizen
+Ul:Ulsda
+Ush:Amsterdam Usselincxhaven
+Ust:Usquert
+Ut:Utrecht CS
+Utb:Utrecht Biltstraat
+Utc:Centraal Station (SU)
+Utg:Uitgeest
+Utge:Utrecht Goederenemplacement
+Utgr:Graadt van Roggeweg (SU)
+Uth:Uithof
+Utk:Kanaleneiland Zuid (SU)
+Utl:Utrecht Lunetten
+Utm:Utrecht Maliebaan
+Utma:? (Een aansluiting in de buurt van Mas)
+Utmo:Utrecht Moreelsepark
+Utmp:5-Meiplein (SU)
+Utmr:Moreelsepark (SU)
+Utn:Utrecht Noord
+Uto:Utrecht Overvecht
+Utoa:Utrecht Oost Aansluiting
+Utoz:Utrecht Opstelterrein Zuid
+Utp:Paul Krugerbrug (SU)
+Uts:Utrecht Stapelplaats
+Utv:Vasco Da Gamalaan (SU)
+Utva:Utrecht Aansluiting Goederenemplacement
+Utvl:Vijverlaan (SU)
+Utwa:Utrecht West Aansluiting
+Utwao:Utrecht West Aansluiting Oost
+Utwaw:Utrecht West Aansluiting West
+Utwp:Westplein (SU)
+Utwr:Westraven (SU)
+Utz:Utrecht Zuid
+Utzl:Utrecht Zuilen
+Utzo:Ziekenhuis Oudenrijn (SU)
+V:Kleve (Kleef) (D)
+Va:Velperbroek Aansluiting
+Vam:VAM-terrein Wijster
+Vama:VAM Aansluiting
+Vb:Voorburg
+Vbl:Voorburg 't Loo
+Vbm:Vrouwbuurstermolen
+Vd:Vorden
+Vdct:Veendam Containerterminal
+Vdg:Vlaardingen Centrum
+Vdl:Voerendaal
+Vdm:Veendam
+Vdo:Vlaardingen Oost
+Vdp:Vlodrop
+Vdpg:Vlodrop Grens
+Vdw:Vlaardingen West
+Veg:Veghel
+Veg Gs:Veghel Gemeentelijke Stamlijn
+Veghi:Veghel Haven Industrieterrein
+Vg:Vught
+Vga:Vught Aansluiting
+Vgz:Vogelenzang-Bennebroek
+Vh:Voorhout
+Vhn:Veghel Haven
+Vhp:Vroomshoop
+Viers:Viersen (D)
+Vij:Velsen-Ijmuiden Oost
+Vil:Vilsteren
+Vk:Valkenburg
+Vkbr:Vinkbrug (brug over de Rijn bij Ld)
+Vkw:Valkenswaard
+Vkwg:Valkenswaard Grens
+Vl:Venlo
+Vlb:Vierlingsbeek
+Vld:Volendam
+Vlg:Valburg
+Vlgr:Venlo Grens
+Vlk:Vlakebrug
+Vltp:Venlo Tradeport
+Vm:Vlijmen
+Vnd:Veenendaal
+Vndc:Veenendaal Centrum
+Vndw:Veenendaal West
+Vor:Vorsfelde (D) (wgl-groep)
+Vp:Velp
+Vpb:Velperbroek
+Vrk:Vork
+Vrou:Vrouwenparochie
+Vrt:Voorst
+Vry:Venray
+Vs:Vlissingen
+Vsd:Voorstonden
+Vsn:Vaassen
+Vspa:Venserpolder Aansluiting
+Vss:Vlissingen Souburg
+Vst:Voorschoten
+Vsv:Varsseveld
+Vt:Valthe
+Vtb:Vechtbrug bij Zwolle
+Vtbr:Vecht (brug bij Wp)
+Vtn:Vleuten
+Vv:Visvliet
+Vvl:Hoogkerk-Vierverlaten
+Vvn:Vinkeveen
+vVrk:Vork
+Vwd:Veenwouden
+Vz:Vriezenveen
+Vzw:Velsen Zeeweg
+Wad:Waddinxveen
+Wadn:Waddinxveen Noord
+Wb:Waardenburg
+Wc:Wijchen
+Wd:Woerden
+Wdb:Woudenberg-Scherpenzeel
+Wdg:Weerdinge
+Wdh:Windesheim
+Wdm:Wirdum
+Wdn:Wierden
+Wdr:Waarder
+Wdv:Wildervank
+Wed:Westeindschedijk
+Wen:Wenum
+Wer:Weiwerd
+Wesel:Wesel (D)
+Wev:Westerveld
+Wf:Wolfheze
+Wfm:Warffum
+Wg:Wageningen
+wgl-groep:wagenlading-groep
+Wgm:Watergraafsmeer
+Wgm Wpl:Watergraafsmeer lijnwerkplaats
+Wgmo:Watergraafsmeer Oost Aansluiting
+Wgmrba:Watergraafsmeer Ringspoorbaan Aansluiting
+Wgmw:Watergraafsmeer West Aansluiting
+Wgmwpl:Watergraafsmeer Lijnwerkplaats
+Wh:Wijhe
+Wha:Waterhuizen Aansluiting
+Whbr:Where (brug bij Pmr)
+Whk:Wilhelminakanaal bij Tb
+Who:Rotterdam Waalhaven Oost
+Whv:Westhaven (Amsterdam)
+Whw:Rotterdam Waalhaven West
+Whz:Rotterdam Waalhaven Zuid
+Wie:Wieuwerd
+Wij:Wijlre
+Wijb:Wantij (brug bij Ddr)
+Wijs:Wijster
+Willin:Willingen (D)
+Wintb:Winterberg (D)
+Witten:Witten Hbf (D)
+Wk:Workum
+Wkbr:Westerkanaal (brug bij Asd)
+Wl:Wehl
+Wld:Willemsdorp
+Wlk:Waalwijk
+Wls:Wilnis
+Wm:Wormerveer
+Wmb:Wijmerts (brug tussen IJt en Wk)
+Wmd:Warmond
+Wmg:Wemeldinge
+Wmgz:Wemeldinge Zandweg
+Wmh:Warmenhuizen
+Wn:Wognum-Nibbixwoud
+Wnl:Woensel
+Wnn:Wadenoijen
+Wol:Wolphaartsdijk
+Wolv:Wolphaartsdijkscheveer
+Wow:Wouw
+Wp:Weesp
+Wpa:Weesp Aansluiting
+Wpg:Waspik-'s Gravemoer
+Wpv:Wapenveld
+Wr:Weener (D)
+Wrg:Weener Grens
+Wrl:Waarland
+Ws:Winschoten
+Wsd:Woensdrecht
+Wsg:Winschoterdiep (brug bij Gn)
+Wsl:Weerselo
+Wsm:Winsum
+Wspl:Rotterdam Westelijke Splitsing
+Wt:Weert
+Wtv:Westervoort
+Wv:Wolvega
+Ww:Winterswijk
+Ww I:Winterswijk Industrieterrein
+Wwgr:Winterswijk Grens
+Wz:WezepZ:Zeeland
+Za:Zetten-Andelst
+Zand:Zanderijen
+Zb:Zuidbroek
+Zbm:Zaltbommel
+Zco:Zoetermeer Stadhuis
+Zcw:Centrum West
+Zd:Zaandam
+Zdb:Zaanbrug
+Zdk:Zaandam Kogerveld
+Zdl:Vries-Zuidlaren
+Zdr:Zenderen
+Zh:Zuidhorn
+Zhk:Zevenbergschenhoek
+Zhm:Zevenhuizen-Moerkapelle
+Zl:Zwolle
+Zl W:Zwolle Lijnwerkplaats
+Zl Wpl:Zwolle werkplaats
+Zlge:Zwolle Goederenemplacement
+Zlgea:Zwolle Goederenemplacement Aansluiting
+Zlkatw:Zwolle Industrieterrein Katwolde
+Zlm:Zelhem
+Zlptt:Zwolle PTT
+Zlptta:Zwolle PTT Aansluiting
+Zlr:Zwolle Rangeerterrein
+Zlra:Zwolle Rangeerterrein Aansluiting
+Zlv:Zwolle Veerallee
+Zlvs:Zwolle Verdeelstation
+Zlw:Lage Zwaluwe
+Zlwpl:Zwolle Lijnwerkplaats
+Zmd:Zwammerdam
+Zp:Zutphen
+Zpd:Zuidplaspolder
+Zpge:Zutphen Goederenemplacement
+Zpgea:Zutphen Goederenemplacement Aansluiting
+Zpk:Zijperdijk
+Zpta:Zutphen Twentekanaal Aansluiting
+Zsh:Zoetermeer Stadhuis
+Zspl:Haarlem Zuidelijke splitsing
+ZT:Zuidelijke Tak Ringspoorbaan Amsterdam
+Zt:Zeist
+Ztm:Zoetermeer
+Ztmb:Zoetermeer Buytenwegh
+Ztmd:Zoetermeer Dorp
+Ztmlw:Zoetermeer Leidse Wallen
+Ztmm:Zoetermeer Meerzicht
+Ztmo:Zoetermeer Oost
+Ztmp:Zoetermeer Palenstein
+Ztmr:Zoetermeer Reactieweg
+Ztms:Zoetermeer Seghwaert
+Ztmsl:Zoetermeer Stadslijn
+Ztmv:Zoetermeer Voorweg
+Ztw:Zoeterwoude
+Ztwo:Zoeterwoude Oost
+Ztww:Zoeterwoude West
+Zv:Zevenaar
+Zvb:Zevenbergen
+Zvg:Zevenaar Grens
+Zvl:Zeeuws-Vlaanderen
+Zvt:Zandvoort aan Zee
+Zw:Zwaag
+Zwd:Zwijndrecht
+Zwd I:Zwijndrecht Groote Lindt
+Zwda:Zwijndrecht Aansluiting
+Zwisch:Bad Zwischenahn (D)
+Zwv:Zuid-Willemsvaart (brug bij Veg)
+Zwvbr:Zuid-Willemsvaart (brug bij Hm)
+Zww:Zwaagwesteinde

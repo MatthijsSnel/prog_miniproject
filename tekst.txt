@@ -1,0 +1,118 @@
+11:58 Rotterdam Centraal
+      Intercity
+      Via Utrecht C, Gouda, Alexander
+      +1 min vertraging
+ 
+12:00 Amersfoort Vathorst
+      Sprinter
+      Zonder tussenstop
+      
+12:01 Amsterdam Centraal
+      Sprinter
+      Via Baarn, Hilversum, Weesp
+      +2 min vertraging
+ 
+12:05 Groningen
+      Intercity
+      Via Zwolle, Assen
+      +7 min vertraging
+ 
+12:09 Ede-Wageningen
+      stoptrein
+      Zonder tussenstop
+      
+12:10 Den Haag Centraal
+      Intercity
+      Via Utrecht C, Gouda
+      
+12:10 Schiphol Airport
+      Intercity
+      Via Hilversum, A'dam Zuid
+      
+12:11 Zwolle
+      Sprinter
+      Via Harderwijk
+      +1 min vertraging
+ 
+12:20 Utrecht Centraal
+      Sprinter
+      Via Den Dolder, Overvecht
+      +2 min vertraging
+ 
+12:22 Enschede
+      Intercity
+      Via Apeldoorn, Deventer, Almelo
+      
+12:23 Amersfoort Schothorst
+      Intercity
+      Zonder tussenstop
+      
+12:26 Amsterdam Centraal
+      Intercity
+      Via Hilversum
+      +9 min vertraging
+ 
+12:26 Barneveld Zuid
+      stoptrein
+      Zonder tussenstop
+      
+12:28 Rotterdam Centraal
+      Intercity
+      Via Utrecht C, Gouda, Alexander
+      
+12:30 Amersfoort Vathorst
+      Sprinter
+      Zonder tussenstop
+      
+12:31 Amsterdam Centraal
+      Sprinter
+      Via Baarn, Hilversum, Weesp
+      
+12:35 Leeuwarden
+      Intercity
+      Via Zwolle, Steenwijk, Heerenveen
+      
+12:36 Deventer
+      Intercity
+      Via Apeldoorn
+      
+12:39 Ede-Wageningen
+      stoptrein
+      Zonder tussenstop
+      
+12:40 Den Haag Centraal
+      Intercity
+      Via Utrecht C, Gouda
+      
+12:40 Schiphol Airport
+      Intercity
+      Via Hilversum, A'dam Zuid
+      
+12:41 Zwolle
+      Sprinter
+      Via Harderwijk
+      
+12:50 Utrecht Centraal
+      Sprinter
+      Via Den Dolder, Overvecht
+      
+12:52 Enschede
+      Intercity
+      Via Apeldoorn, Deventer, Almelo
+      
+12:54 Amersfoort Schothorst
+      Intercity
+      Zonder tussenstop
+      
+12:56 Amsterdam Centraal
+      Intercity
+      Via Hilversum
+      
+12:56 Barneveld Zuid
+      stoptrein
+      Zonder tussenstop
+      
+12:58 Rotterdam Centraal
+      Intercity
+      Via Utrecht C, Gouda, Alexander
+      
